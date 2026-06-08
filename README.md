@@ -111,47 +111,72 @@ Currently completing my thesis project on **AI-powered cultural heritage preserv
   </tr>
 </table>
 
-### 🌐 Web Development
+### 🌐 Web & Mobile Development
 
 <table>
   <tr>
     <td width="50%">
-      <h4>⛪ <a href="https://github.com/ReinhardBatubara/gerejaversi2">HKBP Sigumpar Church Website</a></h4>
-      <p><em>PKM Project · Jan 2025 – Nov 2025</em></p>
-      <p>Community-based church website for information dissemination and organizational activities. Analyzed user needs and converted non-technical requirements into functional web features.</p>
+      <h4>⛪ <a href="https://github.com/ReinhardBatubara/Proyek-Sistem-Informasi-PSI-">HKBP Sigumpar Church Website (PSI Monorepo)</a></h4>
+      <p><em>PSI Course Project · Laravel · 2025</em></p>
+      <p>A comprehensive church management system for HKBP Nomensen Sigumpar, integrating member registration, sacrament request forms, church announcements, financial reporting, and Sintua scheduling.</p>
       <p>
-        <img src="https://img.shields.io/badge/Web_Development-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       </p>
     </td>
     <td width="50%">
-      <h4>📱 <a href="https://github.com/ReinhardBatubara/APK-Puskesmas">APK Puskesmas</a></h4>
-      <p><em>Mobile App Project · 2026</em></p>
-      <p>Mobile application for Puskesmas (community health center) — healthcare information management system built with Flutter/Dart.</p>
+      <h4>💼 <a href="https://github.com/ReinhardBatubara/Kerja-Praktik">Ebako ERP — Enterprise Resource Planning (Monorepo)</a></h4>
+      <p><em>Internship Project · CodeIgniter · Jun–Aug 2025</em></p>
+      <p>An enterprise-level web platform developed during my internship at Ebako, managing business workflows such as inventory/stock tracking, manufacturing operations, purchasing, and sales reporting.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP_CodeIgniter-EE4326?style=flat-square&logo=codeigniter&logoColor=white" />
+        <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>🛍️ <a href="https://github.com/ReinhardBatubara/PPW">DelDeals — Campus Marketplace (Monorepo)</a></h4>
+      <p><em>PPW Course Project · Laravel · Aug–Dec 2024</em></p>
+      <p>A web-based local e-commerce platform for IT Del campus. Features user registration, ad listings (CRUD), smart search filters, and shortcuts to seller's WhatsApp. Includes both the Laravel app and static mockup versions.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel_11-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h4>📱 <a href="https://github.com/ReinhardBatubara/APK-Puskesmas">APK Puskesmas Silangit</a></h4>
+      <p><em>Mobile App Project · Flutter · 2026</em></p>
+      <p>A digital healthcare mobile app for Puskesmas Silangit. Connects 6 user roles (Patient, Registrar, Doctor, Pharmacist, Head, and Admin) in a unified health information management system.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
         <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/Shared_Preferences-grey?style=flat-square" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h4>🍩 <a href="https://github.com/ReinhardBatubara/Donat-Reinhard-Samuel-DER-">Donat — Mobile App (DER)</a></h4>
-      <p><em>Mobile App · 2026</em></p>
-      <p>Flutter/Dart mobile application project developed collaboratively.</p>
+      <p><em>Mobile App · Flutter · 2026</em></p>
+      <p>A modern donut ordering mobile application for customers (katalog, cart, checkout, order tracking timeline) and admin (dashboard, inventory, order processing) using Riverpod for modular state management.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/Riverpod-02569B?style=flat-square" />
+        <img src="https://img.shields.io/badge/Go_Backend-00ADD8?style=flat-square&logo=go&logoColor=white" />
       </p>
     </td>
     <td width="50%">
-      <h4>🌸 <a href="https://github.com/ReinhardBatubara/365-day">365 Day Anniversary</a></h4>
-      <p><em>Creative Web · 2026</em></p>
-      <p>An interactive HTML/CSS anniversary celebration page with animations and creative design.</p>
+      <h4>🎨 <a href="https://github.com/ReinhardBatubara/kreativitasku">Kreativitasku — CLI & Web Projects (Monorepo)</a></h4>
+      <p><em>Creative Utilities · HTML/CSS/JS & C · 2026</em></p>
+      <p>A monorepo containing various coding experiments: an interactive web-based digital clock with smooth rainbow gradient transitions, and a console-based calculator written in C.</p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/GitHub_Pages-181717?style=flat-square&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/C_Language-A8B9CC?style=flat-square&logo=c&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -161,8 +186,6 @@ Currently completing my thesis project on **AI-powered cultural heritage preserv
 
 | Project | Role | Period | Tech Stack |
 |---------|------|--------|-----------|
-| **DelDeals** — E-commerce for campus students | Full-Stack Developer | Aug–Dec 2024 | Laravel, MySQL, PHP, HTML/CSS |
-| **ERP Web System (Ebako)** | Programmer Intern | Jun–Aug 2025 | Web Dev, ERP, Requirement Analysis |
 | **Madrasah Website** | PKM Web Developer | 2025 | PHP, Web Development |
 | **Academic Info System DB** | Database Designer | Nov–Dec 2023 | SQL, ERD, PDM, Normalization |
 
