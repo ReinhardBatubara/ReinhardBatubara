@@ -255,13 +255,14 @@ Currently completing my thesis project on **AI-powered cultural heritage preserv
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
-**Concepts:** OOP · SDLC · SOLID Principles · JDBC · ORM · ERD · PDM · Normalization · Requirement Analysis · Debugging · Agile
+**Concepts & Security:** REST APIs · Unit Testing · OWASP Standards · Technical Documentation · OOP · SOLID Principles · SDLC · ERD Design · Query Optimization · Agile
 
 ---
 
@@ -274,7 +275,12 @@ Currently completing my thesis project on **AI-powered cultural heritage preserv
   </tr>
   <tr>
     <td colspan="2">
-      Developed ERP-based web application, translated user requirements into system features, debugged production issues, and collaborated in an Agile team environment.
+      <ul>
+        <li>Developed and maintained core modules for an Enterprise Resource Planning (ERP) web system using <strong>PHP (CodeIgniter)</strong>, <strong>PostgreSQL</strong>, and <strong>jEasyUI</strong>.</li>
+        <li>Designed and integrated <strong>RESTful APIs</strong> supporting asynchronous data communication between frontend interfaces and backend databases.</li>
+        <li>Executed unit testing, error handling, and debugging adhering to <strong>OWASP security standards</strong> (input sanitization, CSRF/XSS protection).</li>
+        <li>Translated user requirements into technical documentation, schema designs (ERD), and database optimizations in an Agile team.</li>
+      </ul>
     </td>
   </tr>
   <tr><td colspan="2"><hr></td></tr>
@@ -365,6 +371,7 @@ Currently completing my thesis project on **AI-powered cultural heritage preserv
   &nbsp;
   <a href="https://github.com/ReinhardBatubara">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
   </a>
 </p>
 
