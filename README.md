@@ -15,6 +15,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-Reinhard%20Batubara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
+  <a href="https://reinhardbatubara.github.io/">
+    <img src="https://img.shields.io/badge/Live_Portfolio-Website-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  &nbsp;
   <a href="https://github.com/ReinhardBatubara">
     <img src="https://img.shields.io/badge/GitHub-ReinhardBatubara-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -29,10 +33,27 @@
   &nbsp;
   <img src="https://img.shields.io/badge/GPA-3.23%2F4.00-4CAF50?style=flat-square" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Institute%20Teknologi%20Del-Information%20Systems-003087?style=flat-square" />
+  <img src="https://img.shields.io/badge/Institut%20Teknologi%20Del-Information%20Systems-003087?style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Associate_Data_Scientist-Certified-blue?style=flat-square&logo=googlecloud&logoColor=white" />
 </p>
 
 ---
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        🚀 <b>Looking for a Full-Stack Web Developer, Systems Analyst, or IT Engineer?</b><br>
+        <i>Explore my key production & academic repositories below:</i><br><br>
+        <a href="https://reinhardbatubara.github.io/"><b>🌐 Live Interactive Portfolio</b></a> &nbsp;•&nbsp;
+        <a href="https://github.com/ReinhardBatubara/Kerja-Praktik"><b>💼 Ebako ERP System (CodeIgniter & PostgreSQL)</b></a> &nbsp;•&nbsp;
+        <a href="https://github.com/ReinhardBatubara/Proyek-Sistem-Informasi-PSI-"><b>⛪ HKBP Sigumpar Web (Laravel)</b></a> &nbsp;•&nbsp;
+        <a href="https://github.com/ReinhardBatubara/KG-Based-Recommender-System"><b>🧠 AI Recommender System</b></a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🚀 About Me
 
@@ -138,7 +159,7 @@ Currently completing my thesis project on **AI-powered cultural heritage preserv
   </tr>
   <tr>
     <td width="50%">
-      <h4>🛍️ <a href="https://github.com/ReinhardBatubara/PPW">DelDeals — Campus Marketplace (Monorepo)</a></h4>
+      <h4>🛍️ <a href="https://github.com/ReinhardBatubara/Pemrograman-dan-Pengujian-Aplikasi-Web">DelDeals — Campus Marketplace (Monorepo)</a></h4>
       <p><em>PPW Course Project · Laravel · Aug–Dec 2024</em></p>
       <p>A web-based local e-commerce platform for IT Del campus. Features user registration, ad listings (CRUD), smart search filters, and shortcuts to seller's WhatsApp. Includes both the Laravel app and static mockup versions.</p>
       <p>
@@ -160,7 +181,7 @@ Currently completing my thesis project on **AI-powered cultural heritage preserv
   </tr>
   <tr>
     <td width="50%">
-      <h4>🍩 <a href="https://github.com/ReinhardBatubara/Donat-Reinhard-Samuel-DER-">Donat — Mobile App (DER)</a></h4>
+      <h4>🍩 <a href="https://github.com/ReinhardBatubara/Donat-Reinhard-Samuel-DER">Donat — Mobile App (DER)</a></h4>
       <p><em>Mobile App · Flutter · 2026</em></p>
       <p>A modern donut ordering mobile application for customers (katalog, cart, checkout, order tracking timeline) and admin (dashboard, inventory, order processing) using Riverpod for modular state management.</p>
       <p>
