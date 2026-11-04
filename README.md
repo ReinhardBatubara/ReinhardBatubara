@@ -27,7 +27,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ReinhardBatubara&label=Profile+Views&color=7B1113&style=flat-square" alt="profile views" />
   &nbsp;
-  <img src="https://img.shields.io/badge/GPA-3.19%2F4.00-4CAF50?style=flat-square" />
+  <img src="https://img.shields.io/badge/GPA-3.23%2F4.00-4CAF50?style=flat-square" />
   &nbsp;
   <img src="https://img.shields.io/badge/Institute%20Teknologi%20Del-Information%20Systems-003087?style=flat-square" />
 </p>
@@ -42,7 +42,7 @@ My expertise spans **Full-Stack Web Development**, **Database Architecture**, **
 
 Currently completing my thesis project on **AI-powered cultural heritage preservation** using CNN and RAG technologies.
 
-> 📍 Toba, Indonesia &nbsp;|&nbsp; 🎓 GPA: 3.19/4.00 &nbsp;|&nbsp; 🏛️ HIMSI President 2024–2026
+> 📍 Toba, Indonesia &nbsp;|&nbsp; 🎓 GPA: 3.23/4.00 &nbsp;|&nbsp; 🏛️ HIMSI President 2024–2026
 
 ---
 
@@ -357,3 +357,4 @@ Currently completing my thesis project on **AI-powered cultural heritage preserv
 <p align="center">
   <sub>✨ <em>Preserving Batak Toba Heritage Through Technology</em> ✨</sub>
 </p>
+
