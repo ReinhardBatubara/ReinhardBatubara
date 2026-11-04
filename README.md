@@ -63,7 +63,7 @@ My expertise spans **Full-Stack Web Development**, **Database Architecture**, **
 
 Currently completing my thesis project on **AI-powered cultural heritage preservation** using CNN and RAG technologies.
 
-> 📍 Toba, Indonesia &nbsp;|&nbsp; 🎓 GPA: 3.23/4.00 &nbsp;|&nbsp; 🏛️ HIMSI President 2024–2026
+> 📍 Jakarta Timur, Indonesia &nbsp;|&nbsp; 🎓 GPA: 3.23/4.00 &nbsp;|&nbsp; 🏛️ HIMSI President 2024–2026
 
 ---
 
